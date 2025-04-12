@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find Buyer</title>
+  <link rel="stylesheet" href= "{{ url_for('static', filename='css/styles_index.css') }}">
+
+
+</head>
+<body>
+
+  <div class="container">
+    <h1>Find Buyer</h1>
+    <div class="form-box">
+      
+      <div class="upload-section">
+        <p><b>Upload Product Sheet</b></p>
+        <p class="file-label">(Excel/CSV)</p>
+        <input type="file" class="file-input">
+      </div>
+
+      <p>OR</p>
+
+      <div class="input-group">
+        <label>Enter a website URL:</label><br>
+        <input type="url" placeholder="http://example.com">
+      </div>
+
+      <div class="input-group">
+        <label>Material to search for:</label><br>
+        <input type="text" placeholder="Enter material like Steel, Copper">
+      </div>
+
+      <button type="submit">Submit</button>
+    </div>
+  </div>
+
+</body>
+</html>
