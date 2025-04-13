@@ -14,7 +14,7 @@ FindBuyer is an intelligent B2B automation tool that helps material suppliers id
 
 ---
 
-📦 Installation
+## 📦 Installation
 
 1. **Clone the repo:**
    ```bash
@@ -27,5 +27,14 @@ FindBuyer is an intelligent B2B automation tool that helps material suppliers id
 3. **Run the app:**
    ```bash
    python app.py
-4. **Open in your browser**
 
+---
+
+## 🧪 Usage
+
+1. Enter the name of a material (e.g., `Silicone`).
+2. Either:
+   - Upload a spreadsheet of products (`.csv` or `.xlsx`)
+   - OR paste a product listing URL.
+3. View filtered results with matched companies and emails.
+4. Click “Send Email” to automatically reach out with your supply offer.
