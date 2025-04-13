@@ -1,33 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Find Buyer</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles_results.css') }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find Buyer</title>
+  <link rel="stylesheet" href="../static/css/styles_results.css">
 </head>
 <body>
-    <div class="container">
-        <h1>Filtered Products</h1>
-        <table>
-            <thead>
-                <tr>
-                    <th>Company</th>
-                    <th>Product</th>
-                    <th>Email ID</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for product in products %}
-                    <tr>
-                        <td>{{ product['company'] }}</td>
-                        <td>{{ product['product'] }}</td>
-                        <td>{{ product['email'] }}</td>
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        <p>Emails have been sent to the listed companies.</p>
-    </div>
+
+  <div class="container">
+    <h1>Filtered Products</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Product</th>
+          <th>Email ID</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for product in products %}
+          <tr>
+            <td>{{ product['company'] }}</td>
+            <td>{{ product['product'] }}</td>
+            <td>{{ product['email'] }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+
+    {% if emails_sent %}
+      <p>✅ Emails have been sent to the listed companies.</p>
+    {% else %}
+      <p>ℹ️ Emails were not sent automatically.</p>
+    {% endif %}
+    
+  </div>
+  <script src="../static/js/results.js"></script>
+
 </body>
 </html>
