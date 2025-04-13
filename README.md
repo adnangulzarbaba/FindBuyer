@@ -38,3 +38,24 @@ FindBuyer is an intelligent B2B automation tool that helps material suppliers id
    - Paste a product listing URL.
 3. View filtered results with matched companies and emails.
 4. Click “Send Email” to automatically reach out with your supply offer.
+
+---
+
+## 🔐 Notes
+
+- Make sure to configure your SMTP credentials in `email_sender.py`.
+- Web scraping works for specific HTML structures — may need to adapt selectors per site.
+- Protect your app with CAPTCHA/email throttling in production to avoid abuse.
+
+---
+
+## 🤝 Contributing
+
+PRs welcome! Feel free to fork the repo and suggest improvements.
+
+---
+
+## 📄 License
+
+MIT License © 2025
+
