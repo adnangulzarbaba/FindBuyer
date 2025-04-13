@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Set your credentials here
-EMAIL_ADDRESS = 'addyfinn5856@gmail.com'
-EMAIL_PASSWORD = 'zbta smvl oayg jllx'
+EMAIL_ADDRESS = 'example@gmail.com'
+EMAIL_PASSWORD = 'qwerty@123'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 
