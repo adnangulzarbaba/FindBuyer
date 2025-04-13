@@ -1,0 +1,86 @@
+Company,Product,Description,Email
+ABC Corp,Steel Pipe,Made from high-quality steel,contact@abccorp.com
+ABC Corp,Steel Rods,High-strength steel rods for construction,contact@abccorp.com
+XYZ Ltd,Copper Wire,Flexible copper wire for electronics,sales@xyzltd.com
+XYZ Ltd,Copper Sheets,Thin copper sheets for electrical applications,sales@xyzltd.com
+Delta Industries,Plastic Tubing,Durable plastic tubing for plumbing,info@deltaind.com
+Delta Industries,PVC Pipes,High-quality PVC pipes for industrial use,info@deltaind.com
+MNO Traders,Steel Beam,Heavy-duty steel beams for construction,support@mnotraders.com
+MNO Traders,Steel Plates,Precision steel plates for manufacturing,support@mnotraders.com
+PQR Co,Aluminum Sheet,Lightweight aluminum sheets for packaging,contact@pqrco.com
+PQR Co,Aluminum Foil,Thin aluminum foil for wrapping and packaging,contact@pqrco.com
+Alpha Tech,Glass Panel,Strong tempered glass for windows,sales@alphatech.com
+Alpha Tech,Glass Blocks,Decorative glass blocks for interior design,sales@alphatech.com
+Beta Industries,Carbon Fiber,High-strength carbon fiber for aerospace,info@betaindustries.com
+Beta Industries,Carbon Fiber Sheets,Flexible carbon fiber sheets for automotive parts,info@betaindustries.com
+Sigma Supplies,PVC Pipes,Durable PVC pipes for plumbing and construction,support@sigmasupplies.com
+Sigma Supplies,PVC Fittings,High-quality PVC fittings for industrial use,support@sigmasupplies.com
+Kappa Materials,Brass Fittings,High-quality brass fittings for plumbing,sales@kappamaterials.com
+Kappa Materials,Brass Sheets,Brass sheets for electrical and mechanical uses,sales@kappamaterials.com
+Omega Systems,LED Lights,Energy-efficient LED lights for homes and offices,contact@omegasystems.com
+Omega Systems,LED Bulbs,Long-lasting LED bulbs for residential use,contact@omegasystems.com
+Gamma Works,Hydraulic Pumps,Precision hydraulic pumps for industrial use,info@gammaworks.com
+Gamma Works,Gear Pumps,High-performance gear pumps for mechanical systems,info@gammaworks.com
+Delta Innovations,Solar Panels,High-efficiency solar panels for energy systems,support@deltainnovations.com
+Delta Innovations,Solar Batteries,Rechargeable solar batteries for energy storage,support@deltainnovations.com
+Epsilon Equipments,CNC Machines,Automated CNC machines for precision manufacturing,sales@epsilon.com
+Epsilon Equipments,Laser Cutters,High-precision laser cutters for material cutting,sales@epsilon.com
+Zeta Corp,Steel Rods,Heavy-duty steel rods for construction,info@zetacorp.com
+Zeta Corp,Steel Beams,Long-lasting steel beams for commercial use,info@zetacorp.com
+Lambda Tech,Lithium Batteries,Rechargeable lithium batteries for electronics,contact@lambdatech.com
+Lambda Tech,Solar Batteries,High-capacity solar batteries for off-grid systems,contact@lambdatech.com
+Theta Industries,Rubber Gaskets,High-quality rubber gaskets for automotive,support@thetainc.com
+Theta Industries,Rubber Seals,Durable rubber seals for industrial machines,support@thetainc.com
+Pi Manufacturing,Copper Pipes,Durable copper pipes for plumbing applications,sales@pimanufacturing.com
+Pi Manufacturing,Copper Fittings,Precision copper fittings for plumbing,sales@pimanufacturing.com
+Mu Enterprises,Alloy Wheels,Lightweight alloy wheels for vehicles,info@muenterprises.com
+Mu Enterprises,Alloy Rims,Custom alloy rims for performance vehicles,info@muenterprises.com
+NuTech Solutions,Fiber Optics,High-speed fiber optic cables for data transmission,support@nutechsolutions.com
+NuTech Solutions,Fiber Optic Connectors,Precision connectors for fiber optic networks,support@nutechsolutions.com
+Xi Industries,Stainless Steel,Premium stainless steel products for industrial use,sales@xiindustries.com
+Xi Industries,Stainless Steel Tubes,High-quality stainless steel tubes for piping,sales@xiindustries.com
+Rho Corp,Steel Sheets,Durable steel sheets for construction and manufacturing,contact@rhodcorp.com
+Rho Corp,Steel Plates,Heavy-duty steel plates for industrial applications,contact@rhodcorp.com
+Tau Technologies,Lithium-Ion Batteries,Long-lasting lithium-ion batteries for electric vehicles,info@tautechnologies.com
+Tau Technologies,Lithium Battery Packs,High-capacity battery packs for energy storage,info@tautechnologies.com
+Phi Enterprises,Wooden Planks,High-quality wooden planks for construction,support@phienterprises.com
+Phi Enterprises,Wooden Beams,Strong wooden beams for structural purposes,support@phienterprises.com
+Chi Metals,Iron Ore,High-purity iron ore for steel production,sales@chimetals.com
+Chi Metals,Iron Ingots,Smelted iron ingots for manufacturing,sales@chimetals.com
+Psi Solutions,Industrial Fans,High-performance industrial fans for ventilation,contact@psisolutions.com
+Psi Solutions,Ventilation Systems,Complete ventilation systems for factories,contact@psisolutions.com
+Omega Industries,Copper Sheets,Flexible copper sheets for electrical applications,info@omegaindustries.com
+Omega Industries,Copper Tubing,High-quality copper tubing for plumbing,info@omegaindustries.com
+Upsilon Industries,Zinc Coating,Corrosion-resistant zinc coating for metal products,sales@upsilonindustries.com
+Upsilon Industries,Zinc Sheets,Durable zinc sheets for industrial applications,sales@upsilonindustries.com
+Sigma Electronics,Microchips,High-performance microchips for electronics,contact@sigmalelectronics.com
+Sigma Electronics,Capacitors,Precision capacitors for electrical circuits,contact@sigmalelectronics.com
+Zeta Technologies,Lithium Cells,Energy-efficient lithium cells for power storage,info@zetatechnologies.com
+Zeta Technologies,Lithium Batteries,Rechargeable lithium batteries for various devices,info@zetatechnologies.com
+Alpha Components,Rubber Tires,High-quality rubber tires for vehicles,sales@alphacomp.com
+Alpha Components,Tire Rims,Durable tire rims for heavy-duty vehicles,sales@alphacomp.com
+Beta Electrical,Electric Motors,Precision electric motors for various industries,info@betaelectrical.com
+Beta Electrical,AC Motors,High-performance AC motors for industrial use,info@betaelectrical.com
+Gamma Robotics,Robot Arms,Automated robot arms for manufacturing processes,contact@gammarobotics.com
+Gamma Robotics,Autonomous Robots,Robots for autonomous material handling,contact@gammarobotics.com
+Delta Engineers,Welding Machines,Durable welding machines for industrial use,info@deltaengineers.com
+Delta Engineers,MIG Welders,Precision MIG welders for steel fabrication,info@deltaengineers.com
+Epsilon Motors,Electric Scooters,High-performance electric scooters for transport,support@epsilonmotors.com
+Epsilon Motors,E-Bikes,Eco-friendly e-bikes for city commuting,support@epsilonmotors.com
+Zeta Instruments,Pressure Gauges,Accurate pressure gauges for industrial equipment,sales@zetainstruments.com
+Zeta Instruments,Thermometers,Precision thermometers for laboratory use,sales@zetainstruments.com
+Kappa Tech,Robotics Kits,Educational robotics kits for students,info@kappatech.com
+Kappa Tech,Arduino Kits,DIY Arduino kits for electronic enthusiasts,info@kappatech.com
+Omega Tools,Power Drills,Heavy-duty power drills for construction,sales@omegatools.com
+Omega Tools,Circular Saws,Precision circular saws for woodworking,sales@omegatools.com
+Lambda Solutions,3D Printers,High-precision 3D printers for prototyping,support@lambdasolutions.com
+Lambda Solutions,3D Printer Filaments,Premium 3D printer filaments for quality prints,support@lambdasolutions.com
+Pi Electronics,Smart Thermostats,Wi-Fi-enabled smart thermostats for homes,info@pielectronics.com
+Pi Electronics,Smart Plugs,Energy-efficient smart plugs for home automation,info@pielectronics.com
+Nu Systems,Air Conditioners,Energy-efficient air conditioners for commercial use,contact@nusystems.com
+Nu Systems,Air Purifiers,High-efficiency air purifiers for industrial settings,contact@nusystems.com
+Xi Solutions,Water Pumps,Industrial-grade water pumps for construction sites,sales@xisolutions.com
+Xi Solutions,Submersible Pumps,Heavy-duty submersible pumps for water extraction,sales@xisolutions.com
+Tau Enterprises,Electric Chargers,Fast-charging electric car chargers,info@tauenterprises.com
+Tau Enterprises,Wall Chargers,Compact wall chargers for personal devices,info@tauenterprises.com
+Hogwarts ,Magic Wand,Made from high-quality Mana,adnangulzarbaba@gmail.com
