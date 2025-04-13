@@ -45,7 +45,6 @@ FindBuyer is an intelligent B2B automation tool that helps material suppliers id
 
 - Make sure to configure your SMTP credentials in `email_sender.py`.
 - Web scraping works for specific HTML structures — may need to adapt selectors per site.
-- Protect your app with CAPTCHA/email throttling in production to avoid abuse.
 
 ---
 
