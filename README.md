@@ -32,7 +32,7 @@ FindBuyer is an intelligent B2B automation tool that helps material suppliers id
 
 ## 🧪 Usage
 
-1. Enter the name of a material (e.g., `Silicone`).
+1. Enter the name of a material (e.g., `Steel`).
 2. Either of the two:
    - Upload a spreadsheet of products (`.csv` or `.xlsx`)
    - Paste a product listing URL.
